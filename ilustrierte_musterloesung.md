@@ -9,7 +9,7 @@
 
 ## 	Gleichung: 
 
-​				$ e=v+f $
+​				$e=v+f$
 
 ![Graphische Lösung](image.png)
 
