@@ -8,7 +8,7 @@
 
 
 ## 	Gleichung: 
-
+$ e = f + v $
 
 ![Graphische Lösung](image.png)
 
